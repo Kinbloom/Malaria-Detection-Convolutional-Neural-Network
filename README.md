@@ -1,0 +1,1 @@
+# Malaria-Detection-Convolutional-Neural-Network
